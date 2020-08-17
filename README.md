@@ -1,7 +1,7 @@
 Proof of concept demonstrating the utilization of the OHDSI data network to perform external model validation of existing stroke models
 =======================================================================================================================================
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Complete-orange.svg" alt="Study Status: Complete"> 
 
 - Analytics use case(s): **Patient-Level Prediction**
 - Study type: **Methods Research**
